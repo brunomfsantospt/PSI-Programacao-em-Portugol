@@ -78,3 +78,18 @@ Exercícios práticos que foram resolvidos nas aulas de PSI (Programação Siste
 19. A MENOR E A MAIOR IDADE DOS JOGADORES
     Crie um programa que leia idades de 6 jogadores de andebol e que apresente as idades correspondentes ao jogador mais novo e ao jogador mais velho. Utiliza o laço de repetição "PARA".
     
+20. ESTADIA NO HOTEL
+    Elabore um programa, que leia o nome de um hotel e o valor a pagar por noite. Posteriormente, pergunta o número de noites a reservar e calcula o custo da estadia. No fim, apresenta uma mensagem onde consta o nome do hotel e o total a pagar pela estadia.
+
+21. CONVERSAO DAS NOTAS PARA O ENSINO PORTUGUÊS
+   Crie um programa que converta as notas do sistema americano para o português. Considere que:
+   A: Excelente
+   B: Bom
+   C: Suficiente
+   F: Mau
+   Outras letras: Letra inválida
+
+22. A MÉDIA DAS MAIORES NOTAS
+   Elabore um programa que leia 4 notas (N1, N2, N3 e N4), verifique quais são as duas maiores e calcule e mostre a média dessas 2 notas.
+   
+   22.1. Adapte o programa de forma a apresentar quantas notas são acima de 15 valores
