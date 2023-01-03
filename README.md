@@ -93,3 +93,9 @@ Exercícios práticos que foram resolvidos nas aulas de PSI (Programação Siste
    Elabore um programa que leia 4 notas (N1, N2, N3 e N4), verifique quais são as duas maiores e calcule e mostre a média dessas 2 notas.
    
    22.1. Adapte o programa de forma a apresentar quantas notas são acima de 15 valores
+
+23. A ORDEM DECRESCENTE
+   Escreva um programa que apresente por ordem decrescente três números inteiros diferentes inseridos pelo utilizador.
+   
+24. A TABUADA
+   Escreva um programa que leia um número inteiro N e em seguida apresente a tabuada desse número N de um até dez.
